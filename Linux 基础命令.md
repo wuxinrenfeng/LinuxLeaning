@@ -21,7 +21,7 @@ shell命令行工具（Bash 解释器）
 
 在命令行终端中输入 man man 命令来查看 man 命令自身的帮助信息
 
-<img src="C:\Users\91208\AppData\Roaming\Typora\typora-user-images\image-20211117095504259.png" alt="image-20211117095504259" style="zoom:80%;" />
+<img src="pic\image-20211117095504259.png" alt="image-20211117095504259" style="zoom:80%;" />
 
 ---
 
